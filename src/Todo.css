@@ -1,0 +1,19 @@
+.todo {
+    margin-top: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.todo input {
+    margin-bottom: 10px;
+}
+
+.todo ul {
+    list-style: none;
+}
+
+.todo ul > div {
+    display: flex;
+    justify-content: space-between;
+}

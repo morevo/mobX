@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/morevo/mobX.git/static/css/main.029e83b5.css",
-    "main.js": "/morevo/mobX.git/static/js/main.faa77f15.js",
-    "index.html": "/morevo/mobX.git/index.html",
-    "main.029e83b5.css.map": "/morevo/mobX.git/static/css/main.029e83b5.css.map",
-    "main.faa77f15.js.map": "/morevo/mobX.git/static/js/main.faa77f15.js.map"
+    "main.css": "/mobX/static/css/main.029e83b5.css",
+    "main.js": "/mobX/static/js/main.faa77f15.js",
+    "index.html": "/mobX/index.html",
+    "main.029e83b5.css.map": "/mobX/static/css/main.029e83b5.css.map",
+    "main.faa77f15.js.map": "/mobX/static/js/main.faa77f15.js.map"
   },
   "entrypoints": [
     "static/css/main.029e83b5.css",
